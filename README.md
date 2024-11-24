@@ -24,8 +24,8 @@ Omnifood is a website for a fictional food delivery app that uses AI to provide 
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitter](https://twitter.com/yourtwitter)
+- **LinkedIn**: https://www.linkedin.com/in/sharan-athiyadath/
+- **Twitter**: https://x.com/sharanadhi1
 - **Email**: sharanadhi@gmail.com
 <!--
 ## 📚 Latest Blog Posts
